@@ -1,9 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohamed Ezzat 👋
+### Full Stack Web Developer (PHP) | NTI Graduate
 
-<!--
-**mohamedamedezzat-gif/mohamedamedezzat-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Background:** Graduate of BA in Library and Information Science from Benha University (Expertise in Data Organization & Structuring).
+- 💻 **Specialization:** Building clean, responsive, and secure web applications using PHP and modern web technologies.
+- 🚀 **Focus:** Actively building practical full-stack projects to deliver efficient digital solutions.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), PHP
+- **Databases:** MySQL
+- **Tools & Frameworks:** Bootstrap, Git, GitHub
+
+### 📫 Connect with me:
+- **Email:** mohamedamedezzat@gmail.com
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
